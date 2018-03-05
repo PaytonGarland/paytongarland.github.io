@@ -308,5 +308,5 @@ header.masthead p {
 }
 
 .btn-primary:active, .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(64, 190, 240, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5) !important;
 }
